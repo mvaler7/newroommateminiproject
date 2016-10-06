@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t-btbs">
+    <title>How to Catch the Bus</title>
+    <shortdesc>The BT is the best way to get to campus if we've taken the car.</shortdesc> 
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Go to http://www.btransit.org/</cmd>
+            </step>
+            <step>
+                <cmd>Find the nearest bus stop</cmd>
+                <info>Our apartment is on the Heathwood A line. The map will download as a PDF</info>
+            </step>
+            <step>
+                <cmd>Look at the time sheet for that bus stop</cmd>
+                <info>Stroubles Circle is the timed stop nearest the apartment.</info>
+            </step>
+            <step>
+                <cmd>Go to the bus stop and wait.</cmd>
+                <info>Plan to leave about half an hour to 45 minues before your class starts.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t-kitchenbs">
+    <title>How to Clean the Kitchen</title>
+    <shortdesc>If you have made yourself breakfast, here's how to clean up. Or if you just want to clean something. We won't complain.</shortdesc>
+    <taskbody> 
+        <steps>
+            <step>
+                <cmd>Put away the food you used where you found it</cmd>
+            </step>
+            <step>
+                <cmd>Put your dishes in the diswasher</cmd>
+                <info>Pots and pans do not go in the dishwasher, nor do utensils with wooden parts, the pink knives, or the ice cream scoop. If you're not sure, don't do it.</info>
+            </step>
+            <step>
+                <cmd>Hand wash the items that can't go in the dishwasher</cmd>
+            </step>
+            <step>
+                <cmd>Put the hand washed dishes in the drying rack</cmd>
+            </step>
+            <step>
+                <cmd>Wipe down the counters with a sponge</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
