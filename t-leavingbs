@@ -1,0 +1,27 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t-leavingbs">
+    <title>What to Do When You Leave</title>
+    <shortdesc>Before you leave to go to school, make certain a few things happen.</shortdesc>
+    <taskbody> 
+        <steps>
+            <step>
+                <cmd>Pack your bag and make ure you have everything you need.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off the TV and other major electronics</cmd>
+            </step>
+            <step>
+                <cmd>Make certain all of the lights are out</cmd>
+                <info>Double check Bridget's closet and Bathroom, she often forgets those.</info>
+            </step>
+            <step>
+                <cmd>Lock the door to the balcony</cmd>
+            </step>
+            <step>
+                <cmd>Lock the main door when you leave.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
