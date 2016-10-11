@@ -4,5 +4,6 @@
  <title>Morning Takss</title>
      <topicref href="introduction.dita"/>
      <topicref href="kitchenbs.dita"/>
+     <topicref href="leavingbs.dita"/>
      <topicref href="btbs.dita"/>
 </map>
